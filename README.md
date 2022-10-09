@@ -2,8 +2,8 @@
 
 ## 개요
 Spring Boot Admin 테스트하기 위한 Server, Client 환경
-- bootadmin : Microsoft OpenSource Sample Code
-- bootadminclient : JPA 사용 간 CRUD 테스트 프로젝트
+- bootadmin : server
+- bootadminclient : client
 
 ## Environment
 - Language : java
